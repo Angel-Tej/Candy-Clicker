@@ -4,14 +4,14 @@ body{
 
 /*These colors are see through...almost greyed out*/
 .too-broke{
-    background-color: rgba(113, 37, 255, 0.2);
+    background-color: rgba(255, 5, 5, 0.493);
     color:rgba(0, 0, 0, 0.2);
     border: 0;
 }
 
 /*These colors are brighter*/
 .not-broke{
-    background-color: rgb(113, 37, 255);
+    background-color: rgba(0, 255, 42, 0.442);
     color:rgb(0, 0, 0);
     border: 0;
 }
